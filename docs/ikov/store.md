@@ -27,7 +27,7 @@ Scrolls are purchased at [Store Scrolls](https://ikov.io/store/scrolls/). Scroll
 Donator ranks are non tranferable and can only be gained from claiming $ Scrolls.
 
 - $10 Regular Donator
-    - An exclusive red icon next to your name.
+    - An exclusive red icon(![Donator Rank](/img/donator.png)) next to your name.
     - Access to an exclusive Donator Zone. (::dzone)
     - Ability to set home location to the Donator zone.
     - 5% chance to receive an extra Voting token.
@@ -57,7 +57,7 @@ Donator ranks are non tranferable and can only be gained from claiming $ Scrolls
     - Decreased cost when decanting potions.
 - $50 Super Donator
     - All of the Regular Donator benefits.
-    - An exclusive blue icon next to your name.
+    - An exclusive blue icon(![Super Donator Rank](/img/super_donator.png)) next to your name.
     - 10% chance to receive an extra Voting token.
     - 20% chance to receive an extra summoning charm (Whilst equipping a ROW).
     - Removes random event from Evil trees.
@@ -87,7 +87,7 @@ Donator ranks are non tranferable and can only be gained from claiming $ Scrolls
     - 15% chance to obtain extra rewards when opening the Crystal Chest.
 - $250 Extreme Donator
     - All of the Regular Donator & Super Donator benefits.
-    - An exclusive green icon next to your name.
+    - An exclusive green icon(![Extreme Donator Rank](/img/extreme_donator.png)) next to your name.
     - Access to an exclusive Donator Zone. (::ezone)
     - 15% chance to receive an extra Voting token.
     - 30% chance to receive an extra summoning charm (Whilst equipping a ROW).
@@ -121,7 +121,7 @@ Donator ranks are non tranferable and can only be gained from claiming $ Scrolls
     - Ability to auto-insure pets. (out of wilderness)
 - $1000 Legendary Donator
     - All of the Regular Donator, Super Donator & Extreme Donator benefits.
-    - An exclusive purple icon next to your name.
+    - An exclusive purple icon(![Legendary Donator Rank](/img/legendary_donator.png)) next to your name.
     - 30% chance to receive an extra Voting token.
     - 40% chance to receive an extra summoning charm (Whilst equipping a ROW).
     - 3 extra points when spotting a Penguin.
@@ -167,7 +167,7 @@ Donator ranks are non tranferable and can only be gained from claiming $ Scrolls
     - 25% chance to receive a full crystal key as a drop from monsters.
 - $5000 Uber Donator
     - All of the Regular Donator, Super Donator,  Extreme Donator & Legendary Donator benefits.
-    - An exclusive yellow icon next to your name.
+    - An exclusive yellow icon(![Uber Donator Rank](/img/uber_donator.png)) next to your name.
     - Access to an exclusive Donator Zone. (::uzone)
     - 50% chance to receive an extra Voting token.
     - Custom yell tag cost reduced by half.
