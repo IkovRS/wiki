@@ -29,7 +29,7 @@ unique_rate = 1 * 22 = 22
 unique_rate = unique_rate * 0.90 = 19.8
 ```
 
-The final unique rate will be 19.8 for that player, this is not including other boosts currently active.
+The final unique rate will be 1/19.8 for that player, this is not including other boosts currently active.
 
 If two players A and B deal 1000 and 700 damage the rates would be 
 
@@ -41,7 +41,7 @@ unique_rate = 1.7 * 22 = 37.4
 # apply mvp
 unique_rate = 37.4 * 0.90 = 33.66
 
-unique_rate = 33.66
+unique_rate = 1/33.66
 ```
 
 **Player B**
@@ -50,5 +50,5 @@ contribution_ratio = 700 / 1700 = 0.4117647058823529
 multiplier = 1.0 / 0.41 = 2.43
 unique_rate = 2.43 * 22 = 53.46
 
-unique_rate = 53.46
+unique_rate = 1/53.46
 ```
