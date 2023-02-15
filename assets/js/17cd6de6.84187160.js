@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[711],{1538:e=>{e.exports=JSON.parse('{"title":"Ikov","description":"Official pages mainly related to the website.","slug":"/category/ikov","permalink":"/category/ikov","navigation":{"next":{"title":"Welcome","permalink":"/"}}}')}}]);
