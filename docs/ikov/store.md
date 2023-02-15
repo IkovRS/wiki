@@ -12,6 +12,10 @@ Tokens are the currency which is used to buy items. Tokens are gained from claim
 
 ### Scrolls
 
+![$10 Scroll](https://ikov.io/assets/img/store/100-tokens-7aaad6b6d93fa3270d436694972abb96.png)
+![$50 Scroll](https://ikov.io/assets/img/store/550-tokens-68f6bfac38978e3f65b45fb8861736cc.png)
+![$120 Scroll](https://ikov.io/assets/img/store/1250-tokens-92a20446e95bc91b288ad5ee02d8ed8c.png)
+
 Scrolls are purchased at [Store Scrolls](https://ikov.io/store/scrolls/). Scroll's can be redeemed in-game for both Tokens as detailed above and also the scroll value towards your player Donator Rank. Scrolls are not automaticaly redeemed upon purchase and you have the choice to do what you like with them, either sell to other players, gamble or redeem. 
 
 - $10 Scrol = 100 Tokens
