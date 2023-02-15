@@ -17,3 +17,6 @@ The same instructions as the above question.
 
 ## How do I update my forum rank to match in-game?
 Simply [logout](https://ikov.io/logout) the website and [login](https://ikov.io/login) again.
+
+### I have a suggestion where do I submit it?
+You can post your suggestion at [https://forum.ikov.io/forum/17-suggestions/](https://forum.ikov.io/forum/17-suggestions/)
