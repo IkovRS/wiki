@@ -14,7 +14,7 @@ sidebar_position: 2
 - Full Inferno - 1/15
 - Last Wave Only Inferno - 1/75
 - Infernal Cape Exchange - 1/100
-- Infernap Max Cape Exchange - 1/15
+- Infernal Max Cape Exchange - 1/15
 
 ### Bloodhound
 
