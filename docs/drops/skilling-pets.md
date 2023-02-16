@@ -31,7 +31,7 @@ Smith ers | Gained whilst training Smithing | 1 / 10,000
 Rocky | Gained whilst training Thieving | 1 / 10,000
 Beaver | Gained whilst training Woodcutting	| Evil Tree (1 / 2,000)<br />Elder Evil Tree (1 / 1,000)<br />Others (1 / 10,000)
 
-### Guardian
+### Rift Guardian
 
 The Guardians rate is calculated `base_rate - (runecrafting_level * 25)`. If you have level 99 RuneCrafting whilst crafting Soul runes, this would work out as `8000 - (99 * 25) = 5525`
 
