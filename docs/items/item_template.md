@@ -8,18 +8,21 @@ Below is an example template to use for other items, images are not required but
 
 Some information aboout the weapon, requirements to wear, special if any etc
 
-### Attack Bonuses
-| ![White Dagger](/img/items/White_dagger.png) | ![White Scimitar](/img/items/White_scimitar.png) | ![White warhammer](/img/items/White_warhammer.png) | ![Magic](/img/items/Magic_icon.png) | ![Rangeed](/img/items/Ranged_icon.png)
-| --- | --- | --- | --- | ---
-| 0 | 0 | 0 | 0 | 0
-
-### Defence Bonuses
-| ![White Dagger](/img/items/White_dagger.png) | ![White Scimitar](/img/items/White_scimitar.png) | ![White warhammer](/img/items/White_warhammer.png) | ![Magic](/img/items/Magic_icon.png) | ![Rangeed](/img/items/Ranged_icon.png)
-| --- | --- | --- | --- | --- |
-| 0 | 0 | 0 | 0 | 0
-
-### Other Bonuses
-| ![Strength](/img/items/Strength_icon.png) | ![Ranged Strength](/img/items/Ranged_Strength_icon.png) | ![Magic Strength](/img/items/Magic_Damage_icon.png) | ![Prayer](/img/items/Prayer_icon.png) | ![Slayer](/img/items/Slayer_icon.png)
-| --- | --- | --- | --- | ---
-| 0 | 0 | 0 | 0 | 0
+<ItemBonuses
+    attack_stab="0"
+    attack_slash="0"
+    attack_crush="0"
+    attack_magic="0"
+    attack_range="0"
+    defence_stab="0"
+    defence_slash="0"
+    defence_crush="0"
+    defence_magic="0"
+    defence_range="0"
+    other_melee_strength="0"
+    other_ranged_strength="0"
+    other_magic_damage="0"
+    other_prayer="0"
+    other_slayer="0"
+/>
 ```
